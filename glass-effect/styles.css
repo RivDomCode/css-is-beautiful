@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    background-image:url(https://images.unsplash.com/photo-1632516643720-e7f5d7d6ecc9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=711&q=80) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.container{
+    color: white;
+    font-size: 2rem;
+    text-transform: uppercase;
+    width: 50%;
+    height: 8rem;
+    text-align: center;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(2px);
+    box-shadow: 0px 2px 5px 1px white;
+    
+}

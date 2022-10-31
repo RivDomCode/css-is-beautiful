@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: impact;
+    font-size: 62.5%;
+}
+
+.text-container{
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    font-size: 12rem;
+    background: linear-gradient(to right , red, orange,70%, gray);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
